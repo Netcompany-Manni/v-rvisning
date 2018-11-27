@@ -1,0 +1,11 @@
+.default_body{
+    font-size: calc(10px + 2vmin);
+    height: 10vmin;
+    background: blue;
+    justify-content: center;
+    text-align: 'center';
+    color: yellow;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly; /* https://css-tricks.com/snippets/css/a-guide-to-flexbox/ */
+}

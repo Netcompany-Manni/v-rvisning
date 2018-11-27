@@ -1,0 +1,16 @@
+.weatherheader{
+    background: pink;
+    border-radius:1em;
+    border:solid black;
+    font-size: 4vmin;
+}
+
+.myeInformasjon{
+    border-radius: 1vmin;
+    border: solid black;
+    
+}
+
+.myeInformasjon p{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}

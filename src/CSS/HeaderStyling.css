@@ -1,0 +1,10 @@
+.default_header{
+    font-size: calc(10px + 2vmin);
+    height: 10vmin;
+    background: brown;
+    justify-content: center;
+    text-align: 'center';
+    color: yellow;
+    display: flex;
+    align-items: center;
+}

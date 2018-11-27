@@ -18,7 +18,7 @@ constructor(){
     dagensDato: this.getTodaysDate(),
     shouldDisplayWeatherList : true
   }
-  this.getDataFromAPI.bind(this);
+  this.getDataFromAPI.bind(this); 
 }
 
 
